@@ -91,7 +91,6 @@ public class Radio {
             return currentVolume;
         }
         else {
-
         } {
             return setToMaximumVolume();
         }
