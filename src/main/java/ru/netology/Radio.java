@@ -95,6 +95,5 @@ public class Radio {
         } {
             return setToMaximumVolume();
         }
-
     }
 }
